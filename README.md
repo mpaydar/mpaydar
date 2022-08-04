@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpaydar&hide=C++,html)](https://github.com/mpaydar/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mpaydar&layout=compact)](https://github.com/mpaydar/github-readme-stats)
 
 
 
