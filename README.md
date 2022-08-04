@@ -17,10 +17,9 @@ Here are some ideas to get you started:
 
 
 
-![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpaydar&show_icons=true)
 
 
-![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpaydar&show_icons=true&theme=radical)
+![Mohammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=mpaydar&show_icons=true&theme=radical&show_icons=true)
 
 
 
