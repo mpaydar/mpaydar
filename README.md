@@ -8,7 +8,7 @@ Go, Python, SQL, FastAPI, Next.js, LangGraph, SpaCy
 ## Cloud & Data Infra:## 
 Azure (AKS/Synapse), AWS (S3/Lambda), Delta Lake, Snowflake, Airflow, Upstash Redis
 
-##DevOps & Security##:
+## DevOps & Security##:
 Terraform, Docker, CI/CD (GitHub Actions), Prometheus/Grafana, E2EE Protocols
 
 🔭 Latest Projects:
