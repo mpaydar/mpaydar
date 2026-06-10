@@ -15,7 +15,9 @@ Terraform, Docker, CI/CD (GitHub Actions), Prometheus/Grafana, E2EE Protocols
 
 CareerLens AI-v2: Chrome extension syncing live browser highlights to a Next.js dashboard via an AKS-deployed SpaCy NLP service .
 
+You can find porfolio here:
 
+https://my-portfolio-sepia-nine-95.vercel.app/
 <!--
 **mpaydar/mpaydar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
