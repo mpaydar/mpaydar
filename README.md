@@ -17,8 +17,7 @@ CareerLens AI-v2: Chrome extension syncing live browser highlights to a Next.js 
 
 You can find porfolio here:
 
-](https://www.bayatcompute.com/)<!--
-**mpaydar/mpaydar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+https://www.bayatcompute.com/)<!--
 
 Here are some ideas to get you started:
 Feel free to reach out @ mbny30@gmail.com
